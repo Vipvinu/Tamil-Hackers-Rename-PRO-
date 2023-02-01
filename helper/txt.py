@@ -26,7 +26,6 @@ License Link : https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT/blob/main/LICEN
 
 class mr(object):
     PROGRESS_BAR = """\n
-
 ╭──────𝙿𝚛𝚘𝚐𝚛𝚎𝚜𝚜 𝚋𝚊𝚛──────〄
 ├📁 Sɪᴢᴇ : {1} | {2}
 │
