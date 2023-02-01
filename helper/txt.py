@@ -51,6 +51,8 @@ class mr(object):
 •> /delthumb use this command and delete your old thumbnile.
 •> /viewthumb use this command view your current thumbnile.
 
+
+
 📑 <b><u>HOW TO SET CUSTOM CAPTION</u></b>
 •> /set_caption - set a custom caption
 •> /see_caption - see your custom caption
@@ -60,6 +62,8 @@ Example:- /set_caption 📕 File Name: {filename}
 💾 Size: {filesize}
 ⏰ Duration: {duration}
 
+
+
 ✏️ <b><u>HOW TO RENAME A FILE</u></b>
 •> send any file and click rename option and type new file name and \n send select [ document, video, audio ]👈 choice this.
 ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/THM_OTT>TAMIL HACKERS MOVIES</a>
@@ -68,9 +72,16 @@ Example:- /set_caption 📕 File Name: {filename}
 #⚠️ don't remove our credits 🙏😢😢
     DEV_TXT = """
 <b><u>TAMIL HACKERS MOVIES </b></u> 
- This is **Pro** TG renamer bot you can send multiple tasks at a time, 
-  
+ This 𝚒𝚜 <b><u>Pro<b><u> TG renamer bot you can send multiple tasks at a time, 𝙸 𝚌𝚊𝚗 𝚝𝚊𝚔𝚎 𝚛𝚒𝚜𝚔 𝚏𝚘𝚛 𝚢𝚘𝚞 
+
+<b><u>𝚃𝚑𝚒𝚜 𝚋𝚘𝚝 𝚒𝚜 𝙽𝙾𝚃 𝙵𝙾𝚁 𝙿𝚁𝙾𝙵𝙸𝚃, 𝚃𝚑𝚒𝚜 𝚒𝚜 𝚘𝚗𝚕𝚢 𝚏𝚘𝚛 𝚐𝚒𝚟𝚎 𝚜𝚎𝚛𝚟𝚒𝚌𝚎 𝚝𝚘 𝗧𝗛𝗠 𝙵𝚊𝚖𝚒𝚕𝚢<b><u>
+
+🔸 𝙿𝚕𝚎𝚜𝚎 𝚍𝚘𝚗'𝚝 𝚛𝚎𝚗𝚊𝚖𝚎 𝚙𝚒𝚛𝚊𝚌𝚢 𝚌𝚘𝚗𝚝𝚎𝚗𝚝 𝚘𝚛 𝚌𝚘𝚙𝚢𝚛𝚒𝚐𝚑𝚝𝚎𝚍 𝚌𝚘𝚗𝚝𝚎𝚗𝚝
+🔸 𝚃𝚑𝚒𝚜 𝚋𝚘𝚝 𝚒𝚜 𝚏𝚛𝚎𝚎 𝚏𝚘𝚛 𝚎𝚟𝚎𝚛𝚢𝚘𝚗𝚎
+🔹 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚜𝚎𝚝 𝚌𝚞𝚜𝚝𝚘𝚖 𝚌𝚊𝚙𝚝𝚒𝚘𝚗 𝚞𝚜𝚒𝚗𝚐 𝙷𝚎𝚕𝚙 𝚋𝚘𝚝𝚝𝚘𝚗
+🔹 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚗𝚊𝚖𝚎 𝚖𝚘𝚛𝚎 𝚝𝚑𝚊𝚗 10 𝚏𝚒𝚕𝚎 𝚊𝚝 𝚊 𝚝𝚒𝚖𝚎
+🔹 𝙸𝚗𝚝𝚛𝚎𝚜𝚝𝚎𝚍 𝚙𝚎𝚘𝚙𝚕𝚎 𝚍𝚘𝚗𝚊𝚝𝚎 𝚖𝚎 𝚏𝚘𝚛 𝚊𝚍𝚍 4𝙶𝙱 𝚛𝚎𝚗𝚊𝚖𝚎 𝚏𝚎𝚊𝚝𝚞𝚛𝚎 𝚒𝚗 𝚝𝚑𝚒𝚜 𝚋𝚘𝚝
+🔹 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙾𝚠𝚗𝚎𝚛 t.me/TAMIL_HACKERS_GROUP
+
 𝙴𝚗𝚓𝚘𝚢 𝚋𝚛𝚞𝚑 😁 
- 
-» 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : 🔒🔒🔒🔒
 """
